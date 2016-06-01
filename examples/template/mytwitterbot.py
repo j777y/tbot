@@ -15,10 +15,10 @@ class MyTwitterBot(TwitterBot):
         ############################
         # REQUIRED: LOGIN DETAILS! #
         ############################
-        self.config['api_key'] = ''
-        self.config['api_secret'] = ''
-        self.config['access_key'] = ''
-        self.config['access_secret'] = ''
+        self.config['api_key'] = 'xDb2cGaiPATa12X9tiIVAdSbA'
+        self.config['api_secret'] = 'SPIT3Y5yEz2bc5OkzcLmFvx1toJhSGJf7gJx3Oks36Nv8WmqkM'
+        self.config['access_key'] = '727883449260978180-wn6tOhytn6YUXFzMd6hI5J4uSj1oXrt'
+        self.config['access_secret'] = 'dXAyAyDEw0QdO5HVt6mQGklzN9nKzUgnedwTtBmjZt930'
 
 
         ######################################
