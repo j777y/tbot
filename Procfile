@@ -1,1 +1,1 @@
-worker: python ./README
+worker: python ./examples/template/mytwitterbot.py
